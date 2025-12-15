@@ -40,7 +40,7 @@ blue-waves-school/
 🌐 Live Demo
 
 🔗 Live Website:
-(Add your GitHub Pages link here)
+[(Add your GitHub Pages link here)](https://elegant-kulfi-16541c.netlify.app/)
 
 🎯 Purpose of the Project
 
