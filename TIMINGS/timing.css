@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f2f7ff;
+    color: #333;
+}
+
+header {
+    background-color: #004080;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.timing-section {
+    padding: 40px;
+    text-align: center;
+}
+
+.timing-section h1 {
+    color: #004080;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.timing-section p {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.timing-images {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+}
+
+.timing-images img {
+    width: 80%;
+    max-width: 600px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
