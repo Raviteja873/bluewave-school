@@ -54,9 +54,11 @@ Demonstrate the ability to design and structure a complete website
 
 Serve as a portfolio project for internships and entry-level opportunities
 
-📸 Screenshots
+📸 Screenshot 
+<img width="1911" height="977" alt="image" src="https://github.com/user-attachments/assets/11e12532-1143-4f56-9e6f-b9a53ca71b18" />
 
-(Add screenshots of your homepage and other sections)
+
+
 
 🚀 Future Improvements
 
